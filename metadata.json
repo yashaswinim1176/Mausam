@@ -1,6 +1,6 @@
 {
-  "name": "Mausam — Simple & Accessible Weather Dashboard",
-  "description": "High-contrast, zero-clutter personalized weather dashboard for farmers, commuters, parents, and athletes with outdoor sunlight visibility.",
+  "name": "Mausam — Dynamic Physics Weather Portal",
+  "description": "Real-time physics-based atmospheric weather engine with dynamic time-of-day skies, volumetric clouds, rain splash simulation, lightning and adaptive glassmorphism UI inspired by Realme and ColorOS.",
   "requestFramePermissions": ["geolocation"],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
