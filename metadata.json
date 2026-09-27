@@ -1,0 +1,6 @@
+{
+  "name": "Mausam — Simple & Accessible Weather Dashboard",
+  "description": "High-contrast, zero-clutter personalized weather dashboard for farmers, commuters, parents, and athletes with outdoor sunlight visibility.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
